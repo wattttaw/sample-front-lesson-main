@@ -29,7 +29,7 @@
     "lint-staged": "^11.2.6",
     "playwright": "1.32.3",
     "prettier": "^2.8.7",
-    "vite": "^2.4.4"
+    "vite": "^2.9.18"
   },
   "dependencies": {
     "chance": "^1.1.10",

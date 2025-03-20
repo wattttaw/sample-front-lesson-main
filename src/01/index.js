@@ -1,7 +1,7 @@
 'use strict';
 
-const ul = document.getElementById('js-lists');
-const li = document.createElement('li');
+const getlistContainer = document.getElementById('js-lists');
+const createListItem = document.createElement('li');
 
-li.textContent = 'これです';
-ul.appendChild(li);
+createListItem.textContent = 'これです';
+getlistContainer.appendChild(createListItem);
